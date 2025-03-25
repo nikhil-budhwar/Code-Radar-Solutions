@@ -2,5 +2,5 @@
 int main(){
     int a;
     scanf("%d",&a);
-    printf("Hexadecimal: %x \n Octal: %o" , a,b);
+    printf("Hexadecimal: %x \n Octal: %o" , a);
 }
