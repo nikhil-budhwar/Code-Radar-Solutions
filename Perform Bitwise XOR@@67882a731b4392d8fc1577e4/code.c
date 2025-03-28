@@ -6,6 +6,6 @@ int main(){
     printf("%d",a^b);
     }
     else{
-        printf("0")
+        printf("0");
     }
 }
