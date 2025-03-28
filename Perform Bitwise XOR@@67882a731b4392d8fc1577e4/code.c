@@ -5,4 +5,7 @@ int main(){
     if(a^b){
     printf("%d",a^b);
     }
+    else{
+        printf("0")
+    }
 }
