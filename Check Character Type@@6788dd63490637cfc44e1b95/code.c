@@ -12,7 +12,7 @@ int main(){
         printf("Digit");
     } 
     else{
-        printf("Special Charater");
+        printf("Special Character");
     }
     
 }
